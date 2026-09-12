@@ -4,6 +4,6 @@ def add(a, b):
 
 
 def subtract(a, b):
-    """두 수를 뺀디"""
+    """두 수를 뺀다"""
     print("DEBUG:", a, b)
     return a - b
