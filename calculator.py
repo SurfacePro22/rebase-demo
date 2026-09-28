@@ -9,7 +9,7 @@ def subtract(a, b):
     return a - b
 
 
-def multiply(a, b):
+def multiply(c, d):
     """두 수를 곱한다"""
     return a * b
 
